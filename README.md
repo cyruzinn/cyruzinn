@@ -11,6 +11,9 @@ Estou em transição de carreira para a área de tecnologia, com foco em desenvo
 
 ### Projetos em destaque
 
+**[Detector de Vagas de Emprego](https://github.com/cyruzinn/detector-vagas-python)**
+Script em Python que busca vagas remotas via API pública, com filtro por palavras-chave e tratamento de erros de conexão.
+
 **[Calculadora em Java](https://github.com/cyruzinn/calculadora-java)**
 Calculadora de console com operações básicas, cálculo de porcentagem e IMC, com tratamento de erros de entrada.
 
